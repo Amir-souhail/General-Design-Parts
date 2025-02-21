@@ -1,44 +1,4 @@
-# General Design Parts
 
-This repository is a collection of **3D models**, **technical drawings**, and **design resources** for various mechanical and engineering components. The files are organized into folders, with each part having its own dedicated folder containing STEP files, STL files, drawings, and other relevant resources. The drawings and designs are sourced from internet pages, Facebook pages, Instagram pages, and other public platforms.
-
-## Table of Contents
-- [Project Description](#project-description)
-- [Repository Structure](#repository-structure)
-- [Parts Included](#parts-included)
-  - [Flange/Mounting Bracket](#flange-mounting-bracket)
-- [Files Included](#files-included)
-- [Usage](#usage)
-- [Software Requirements](#software-requirements)
-- [Contact Information](#contact-information)
-- [License](#license)
-
----
-
-## Project Description
-The **General Design Parts** repository is a curated collection of 3D models, technical drawings, and design resources for mechanical and engineering components. This repository is intended to serve as a resource for designers, engineers, and hobbyists who need ready-to-use parts or inspiration for their projects. Each part is organized into its own folder for easy navigation and access.
-
----
-
-## Repository Structure
-The repository is organized into the following structure:
-General Design Parts/
-├── Part 1 - Flange_Mounting_Bracket/
-│ ├── STEP Files/
-│ ├── STL Files/
-│ ├── Drawings/
-│ └── Resources/
-
-
-Each part has its own folder containing:
-- **STEP Files**: 3D models in STEP format for use in CAD software.
-- **STL Files**: 3D models in STL format for 3D printing.
-- **Drawings**: Technical drawings in PDF or image formats.
-- **Resources**: Additional resources such as reference images, design guidelines, and tutorials.
-
----
-
-## Parts Included
 
 ### Flange/Mounting Bracket
 This part is a mechanical component that could function as a **flange** or **mounting bracket**. Below is a detailed breakdown of the part based on its technical drawing:
