@@ -12,19 +12,6 @@ This project documents the reverse engineering and 3D reconstruction of a mechan
 
 ---
 
-## 🔧 What is This Part?
-
-The **Y10A** component appears to be a **mounting flange** or **end plate**, typically used in rotating machinery. It features threaded and thru holes, chamfers, and a circular geometry, suggesting its function as a **cover, support, or interface** in assemblies like:
-
-- **Electric Motors** – front or rear end cap
-- **Gearboxes** – structural or divider flange
-- **Pumps** – mount or casing cover
-- **Rotating Machinery** – fixture plate or alignment base
-
-Its design aligns with Soviet-era mechanical standards under the Russian **GOST system**, implying typical use in Eastern European industrial equipment.
-
----
-
 ## 📐 Drawing Interpretation & Features
 
 - **Threaded holes:** M8 – 6H, 16 mm deep with 90° countersinks
