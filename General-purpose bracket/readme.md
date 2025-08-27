@@ -1,51 +1,33 @@
-**Sheet Metal Bracket — SolidWorks Project**
+# Sheet Metal Bracket - SolidWorks Model
 
-This project contains a 3D sheet metal model of a multi-flange bracket, created in **SolidWorks** from a 2D drawing titled “Sheet Metal Exercise 006” by Jairam Kumar.
+A 3D model of a multi-flange sheet metal bracket, reverse-engineered in SolidWorks from a 2D technical drawing.
 
----
+![3D Rendered View](screenshots/render.png)
 
-📌 **Specifications**  
-- Material Thickness: 2.0 mm  
-- Bend Radius: 2.0 mm  
-- Bend Angles: 90° (Up / Down)  
-- Features: Mounting holes, slots, cutouts, flanges
+## Overview
 
----
+This project contains the SolidWorks files for a parametric sheet metal bracket, based on the "Sheet Metal Exercise 006" drawing by Jairam Kumar. The goal was to accurately model the part using SolidWorks Sheet Metal tools, applying correct bends and features to generate a manufacturing-ready model and flat pattern.
 
-📂 **Files Included**  
-- `Bracket.SLDPRT` – SolidWorks part file  
-- `Bracket.SLDDRW` – Technical drawing  
-- `Bracket.STEP` – Export for other CAD software  
-- `Drawing.pdf` – PDF version of the drawing  
-- `screenshots/` – Rendered images and flat pattern views
+## Specifications
 
----
+- **Material:** Steel
+- **Thickness:** 2.0 mm
+- **Bend Radius:** 2.0 mm
+- **Features:** Mounting holes, slots, weight-reduction cutouts, and 90° flanges.
 
-🛠 **Modeled In**  
-SolidWorks Sheet Metal Module
+## Files
 
----
+- `Sheet_Metal_Bracket.SLDPRT` - Main SolidWorks part file.
+- `Sheet_Metal_Bracket.SLDDRW` - Technical drawing.
+- `Sheet_Metal_Bracket.STEP` - Neutral 3D format for viewing in other software.
+- `Drawing.pdf` - PDF of the technical drawing.
 
-🎯 **Purpose**  
-This model is suitable for:  
-- Electronics mounting  
-- Machinery brackets  
-- Enclosures and racks  
-- CAD and sheet metal design practice
+## Credits
 
----
-
-🙌 **Credits**  
-Original 2D drawing by **Jairam Kumar**  
-- [Pinterest](https://in.pinterest.com/jairamkumar/)  
+Original 2D drawing created by **Jairam Kumar**.
+- [Pinterest](https://in.pinterest.com/jairamkumar/)
 - [YouTube](https://www.youtube.com/user/jairamkumar)
 
----
+## License
 
-📄 **License**  
-Educational use only. Not for commercial purposes.
-
---- 
-
-🔧 **Note**  
-Always verify dimensions and design intent before manufacturing.
+This project is for educational and personal use only.
